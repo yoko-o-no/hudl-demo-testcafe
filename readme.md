@@ -1,14 +1,14 @@
-### Hudl Sample Framework with Testcafe ###
+# Hudl Sample Framework with Testcafe #
 
 This is a sample automation framework of hudl login functionality using Testcafe.
 
 ## Prerequisites ##
 
-To run this project node and npm will need to be installed locally.
+To run this project node.js and npm will need to be installed locally.
 
 ## Installation ##
 
-After cloning the project, navigate to the project directory path in a command terminal and run the following command "npm i" to install all the project dependencies.
+After cloning the project, navigate to the project directory path in a command terminal and run the command "npm install" to install all the project dependencies.
 
 ## Test Data ##
 
