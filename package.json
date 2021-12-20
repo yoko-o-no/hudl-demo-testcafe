@@ -1,0 +1,14 @@
+{
+  "name": "hudl-demo-testcafe",
+  "version": "1.0.0",
+  "description": "automation framework of hudl using testcafe",
+  "main": "index.js",
+  "dependencies": {
+    "testcafe": "^1.17.1"
+  },
+  "scripts": {
+    "test": "testcafe chrome test/scripts/*.js --skip-js-errors"
+  },
+  "author": "Yorkor Baffour",
+  "license": "ISC"
+}
